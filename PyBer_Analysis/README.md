@@ -1,6 +1,6 @@
 # PyBer_Analysis
 ## Overview of Analysis
-The purpose of this report is to use PythonData and Jupyter Notebook to create a summary Data Frame illustrating ride share data by city type (Urban, Suburban, Rural). We used matplotlib and merged data sets and a variety of functions including, groupby, sum and line graphs, bubble charts, bar charts and pie charts. 
+The purpose of this report is to use PythonData and Jupyter Notebook to create a summary Data Frame illustrating ride share data by city type (Urban, Suburban, Rural). We used matplotlib and merged data sets and a variety of functions including, groupby, pivot, sum, line graphs, bubble charts, bar charts and pie charts. 
 
 ## Results
 ### Urban Fares Dominate:
@@ -12,3 +12,11 @@ Urban fares were by far the highest of the three types of cities with the most p
 
 ![Fig1](https://user-images.githubusercontent.com/82114481/119283251-64b1c980-bc0a-11eb-94c9-6de38d0317c8.png)
 
+## Summary
+### Suggestions
+
+First off, I'd recommend the company hire more drivers in rural areas. There are so few drivers who work out in the rural areas that I'm sure if we bump up the total count, money would rise. Obviously overall rural areas can't compete with Urban or Suburban but I am sure we can do better. It's worth noting that all the areas saw the most action in the same period of mid-April to mid-March. I suggest we do another study to find out why that is and why there is very little demand at the beginning of the year. But the main suggestion I have might be to run promos in rural areas to lower the average fares. Rural areas have the highest average fares so cost may be a prohibiting factor. 
+
+### Here's my puppy
+#### Pandemic Decisions!
+![unnamed-1](https://user-images.githubusercontent.com/82114481/119283797-169dc580-bc0c-11eb-965d-1005a4b5e50f.jpg)
